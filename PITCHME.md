@@ -25,7 +25,6 @@
 ---
 
 @snap[north span-100]
-
 ## INFORMATIONEN
 #### www.sternwarte-hof.de/de/komet-neowise
 @snapend
@@ -38,5 +37,3 @@
 #### @fa[facebook-f]  **SternwarteHof**  
 ####  @fa[twitter]   **SternwarteHof** 
 @snapend
-
----
