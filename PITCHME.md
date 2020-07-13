@@ -7,6 +7,10 @@
 
 ---
 
+![Aktuelles Bild](assets/img/Fichtelgebirge.jpg)
+
+---
+
 ![Aktuelles Bild](assets/img/C2020F3-HG.jpg)
 
 ---
