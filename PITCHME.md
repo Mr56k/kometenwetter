@@ -19,7 +19,7 @@
 
 ---
 
-![Aktuelles Bild](assets/img/C2020F3-Neowise-2-DV.jpg)
+![height: 800px](assets/img/C2020F3-Neowise-2-DV.jpg)
 
 ---
 
