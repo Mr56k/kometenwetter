@@ -2,11 +2,20 @@
 
 @snap[north span-100]
 # KOMET **UPDATE**
+### vom 13.07.2020
 @snapend
 
 ---
 
-![Aktuelles Bild](assets/img/DSC_3191.jpg)
+![Aktuelles Bild](assets/img/C2020F3-HG.jpg)
+
+---
+
+![Aktuelles Bild](assets/img/C2020F3-Neowise-DV.jpg)
+
+---
+
+![Aktuelles Bild](assets/img/C2020F3-Neowise-2-DV.jpg)
 
 ---
 
@@ -15,12 +24,6 @@
 ---
 
 ![height=500px](https://www.sternwarte-hof.de/wetter.gif)
-
----
-
-# HELP!
-
-#### @fa[youtube]  **UCxyOm3VKevvGHmliv9KTScQ** 
 
 ---
 
@@ -35,5 +38,6 @@
 
 @snap[south-east span-50]
 #### @fa[facebook-f]  **SternwarteHof**  
-####  @fa[twitter]   **SternwarteHof** 
+#### @fa[twitter]   **SternwarteHof**
+#### @fa[youtube]  **SternwarteHofYT** 
 @snapend
