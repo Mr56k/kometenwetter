@@ -19,7 +19,7 @@
 
 ---
 
-![height=800px](assets/img/C2020F3-Neowise-2-DV.jpg)
+![height=600px](assets/img/C2020F3-Neowise-2-DV.jpg)
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-![height=800px](https://www.sternwarte-hof.de/modsuihd_20200713_1700_animation.gif)
+![height=600px](https://www.sternwarte-hof.de/modsuihd_20200713_1700_animation.gif)
 
 ---
 
