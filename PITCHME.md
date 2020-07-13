@@ -27,7 +27,7 @@
 
 ---
 
-![height=500px](https://www.sternwarte-hof.de/wetter.gif)
+![height=500px](https://www.sternwarte-hof.de/modsuihd_20200713_1700_animation.gif)
 
 ---
 
