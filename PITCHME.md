@@ -7,19 +7,7 @@
 
 ---
 
-![Aktuelles Bild](assets/img/Fichtelgebirge.jpg)
-
----
-
-![Aktuelles Bild](assets/img/C2020F3-HG.jpg)
-
----
-
-![Aktuelles Bild](assets/img/C2020F3-Neowise-DV.jpg)
-
----
-
-![height=600px](assets/img/C2020F3-Neowise-2-DV.jpg)
+![Daniel Komet](assets/img/C2020F3-DV.jpg)
 
 ---
 
