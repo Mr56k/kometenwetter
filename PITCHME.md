@@ -7,7 +7,7 @@
 
 ---
 
-![Daniel Komet](assets/img/C2020F3-DV.jpeg)
+![height=1000px](assets/img/C2020F3-DV.jpeg)
 
 ---
 
@@ -15,7 +15,7 @@
 
 ---
 
-![height=600px](https://www.sternwarte-hof.de/modsuihd_20200718_1100_animation.gif)
+![height=1000px](https://www.sternwarte-hof.de/modsuihd_20200718_1100_animation.gif)
 
 ---
 
