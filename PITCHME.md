@@ -7,7 +7,7 @@
 
 ---
 
-![Daniel Komet](assets/img/C2020F3-DV.jpg)
+![Daniel Komet](assets/img/C2020F3-DV.jpeg)
 
 ---
 
