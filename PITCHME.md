@@ -1,8 +1,8 @@
----?image=assets/img/DSC_3191.jpg
+---?image=assets/img/C2020F3-Neowise-DV.jpg
 
 @snap[north span-100]
 # KOMET **UPDATE**
-### vom 13.07.2020
+### vom 18.07.2020
 @snapend
 
 ---
@@ -27,7 +27,7 @@
 
 ---
 
-![height=600px](https://www.sternwarte-hof.de/modsuihd_20200713_1700_animation.gif)
+![height=600px](https://www.sternwarte-hof.de/modsuihd_20200718_1100_animation.gif)
 
 ---
 
