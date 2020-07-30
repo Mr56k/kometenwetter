@@ -2,20 +2,28 @@
 
 @snap[north span-100]
 # KOMET **UPDATE**
-### vom 18.07.2020
+### vom 30.07.2020
 @snapend
 
 ---
 
-![height=600px](assets/img/C2020F3-DV.jpeg)
+![height=600px](assets/img/DSC_3499.jpg)
+
+---
+
+![height=600px](assets/img/DSC_3517.jpg)
+
+---
+
+![height=600px](assets/img/DSC_3538_kl.jpg)
+
+---
+
+![Video](https://www.youtube.com/embed/EttG1awfhBg)
 
 ---
 
 # Live
-
----
-
-![height=600px](https://www.sternwarte-hof.de/modsuihd_20200718_1100_animation.gif)
 
 ---
 
